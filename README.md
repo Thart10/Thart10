@@ -1,4 +1,4 @@
-🍔 ## Me Chamo Thiago
+🍔 
 👹- nome: My name is,Thiago pode me chamar de "TH"
 🍔       🤛- hobby: Artes, e leitura, e gosto de estudar apreciar todo o conhecimento possível.
 🍔            📚- Uma leitura mais didáica me agrada mais, com base históica com ênfase na filosofia. 
@@ -14,7 +14,7 @@
                  🐧 Yutube :https://www.youtube.com/channel/UCPCzlWXnFqk1RrcgRVZ5MRg
                  
 
-
+## Me Chamo Thiago
 <div align="center">
   <a href="https://github.com/thart10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thart10&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
