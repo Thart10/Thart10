@@ -6,5 +6,5 @@
 🍔           🎓- (estudando) Mestrado em Engenharia de software
 🍔       🎓- cursando (Full Stack pela Labenu, perído integral)
 🍔    📧-@email: thiagofervor0@gmail.com 
-🍔 📧-@email: thiagofervor10ggmail.com
+🍔 📧-@email: thiagofervor10gmail.com
       
