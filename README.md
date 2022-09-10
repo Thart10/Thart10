@@ -1,4 +1,5 @@
-🍔 👹- nome: My name is,Thiago pode me chamar de "TH"
+🍔 ## Me Chamo Thiago
+👹- nome: My name is,Thiago pode me chamar de "TH"
 🍔       🤛- hobby: Artes, e leitura, e gosto de estudar apreciar todo o conhecimento possível.
 🍔            📚- Uma leitura mais didáica me agrada mais, com base históica com ênfase na filosofia. 
 🍔                  🎓-Graduado na area de Logistica 
