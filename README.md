@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Thart10/Thart10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍔 👹- nome: My name is,Thiago pode me chamar de "TH"
+🍔       🤛- hobby: Artes, e leitura, e gosto de estudar apreciar todo o conhecimento possível.
+🍔            📚- Uma leitura mais didáica me agrada mais, com base históica com ênfase na filosofia. 
+🍔                  🎓-Graduado na area de Logistica 
+🍔              🎓-(estudando) Mestrado em teologia interconfessional 
+🍔           🎓- (estudando) Mestrado em Engenharia de software
+🍔       🎓- cursando (Full Stack pela Labenu, perído integral)
+🍔    📧-@email: thiagofervor0@gmail.com 
+🍔 📧-@email: thiagofervor10ggmail.com
+      
