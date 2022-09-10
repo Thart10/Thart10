@@ -11,3 +11,11 @@
                 🐧Social: https://www.facebook.com/thiago.fervor.7
                  🐧 linkedin: https://www.linkedin.com/in/thiago-da-silva-2063a7211/
                  🐧 Yutube :https://www.youtube.com/channel/UCPCzlWXnFqk1RrcgRVZ5MRg
+                 
+
+
+<div align="center">
+  <a href="https://github.com/thart10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
