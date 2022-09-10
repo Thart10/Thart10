@@ -7,4 +7,7 @@
 🍔       🎓- cursando (Full Stack pela Labenu, perído integral)
 🍔    📧-@email: thiagofervor0@gmail.com 
 🍔 📧-@email: thiagofervor10@gmail.com
-      
+                
+                🐧Social: https://www.facebook.com/thiago.fervor.7
+                 🐧 linkedin: https://www.linkedin.com/in/thiago-da-silva-2063a7211/
+                 🐧 Yutube :https://www.youtube.com/channel/UCPCzlWXnFqk1RrcgRVZ5MRg
